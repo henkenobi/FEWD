@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+<head>
+	<title>Hen.Kenobi</title>
+	<style>
+	  body {
+	    text-align: center;
+	    background: url("http://i.imgur.com/6WqMTmK.jpg"); 
+	    background-size: cover;
+	    background-position: center:
+	    color: teal; 
+	    font-family: courier;
+	  img 
+	  p {
+	    font-size: 20px;
+	  }
+	  input {
+	    border: 0;
+	    padding: 10px;
+	    font-size: 15px;
+	  input[type="submit"] {
+	    background: teal;
+	    color:white;
+  </style>
+</head>
+
+
+<body>
+	<img src="http://i.imgur.com/l8wFR5Jm.jpg">
+	<p>Hello there.  I'm Henry, a Houston-based Jedi.  Say hi!</p>
+	<input type="email" placeholder="Your email">
+	<input type="submit"> 
+</body>
